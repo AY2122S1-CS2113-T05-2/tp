@@ -9,6 +9,8 @@ This User Guide is an introduction to the features, commands, and tips of SEPlan
 or you simply wish to explore SEPlanner to its fullest potential, this is the page for you. Use the [Content Page](#Content-Page)
 to easily access the different sections of this guide, and we hope you have a pleasant experience.
 
+<div style="page-break-after: always;"></div>
+
 ## Content Page
 * [Introduction](#introduction)
 * [Program overview](#program-overview)
@@ -39,6 +41,8 @@ to easily access the different sections of this guide, and we hope you have a pl
 * [Command Summary](#command-summary)
 * [Glossary](#glossary)
 * [Troubleshooting](#troubleshooting)
+
+<div style="page-break-after: always;"></div>
 
 ## Introduction
 
@@ -577,7 +581,7 @@ each command and will be auto-loaded on program start.
 
 ## Command Summary
 
-Command | Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Purpose
+Command | Format &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Purpose
 --------|---------|-----------
 `add` | `add /uni <UNI_INDEX>`, <br /> `add /uni <UNI_NAME>`, <br />`add /mod <MOD_INDEX>`, <br /> `add /mod <UNI_NAME>`,<br />`add /map <UNI_INDEX> <MAP_INDEX>` | Add a university/module/mapping
 `remove` | `remove /uni <UNI_INDEX>`, <br /> `remove /uni <UNI_NAME>`, <br />`remove /mod <MOD_INDEX>`, <br /> `remove /mod <UNI_NAME>`,<br />`remove /map <UNI_INDEX> <MAP_INDEX>` | Remove a university/module/mapping
